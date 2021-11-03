@@ -53,7 +53,7 @@ vm.name property:
 
 Similarly, call a function on our controller upon a user click using
 the ng-click directive:
-<button class="btn btn-danger" ngclick="vm.clearName()">Clear Name</button>
+<button class="btn btn-danger" ng.click="vm.clearName()">Clear Name</button>
 
 Lets get started with the application.
 npm init is used here to generate a package.json and app.js file.
